@@ -1,2 +1,2 @@
 # presentation
-ongoing project for summer internship
+Ongoing project for summer internship
